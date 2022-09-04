@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinan</h1>
 <h3 align="center">I'm a software engineering student.</h3>
 
-- 🌱 I’m currently learning **Vue js**
+- 🌱 I’m currently learning **React Js , React Native**
 
 - 👨‍💻 I’m looking to collaborate on **Front-end**
 
