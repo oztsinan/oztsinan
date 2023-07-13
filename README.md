@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Node Js , Sequelize , React , React Native , Vue<br>🌱 I’m currently learning Reanimated 3<br>💬 Ask me about React Native<br>📫 How to reach me sinanozturkk@icloud.com</p>
+<p align="left">🔭 I’m currently working on Node Js , Sequelize , React , React Native , Vue<br>🌱 I’m currently learning GraphQL , Go<br>💬 Ask me about React Native<br>📫 How to reach me sinanozturkk@icloud.com</p>
 
 ###
 
